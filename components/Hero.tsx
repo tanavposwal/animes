@@ -19,14 +19,14 @@ function Hero() {
             className="object-contain -hue-rotate-60"
           />
           <a
-            href="https://anime-world.in"
+            href="https://github.com/tanavposwal"
             className="hover:-translate-y-1 hover:shadow-2xl transition-transform"
           >
             <div className="mx-auto flex w-full max-w-lg items-center justify-center">
               <div className="relative z-10 flex w-full cursor-pointer items-center overflow-hidden rounded-xl border border-slate-800 p-[3px]">
                 <div className="animate-rotate absolute inset-0 h-full w-full rounded-full bg-[conic-gradient(#9333ea_20deg,transparent_120deg)]"></div>
                 <div className="relative z-20 flex w-full rounded-[0.60rem] bg-slate-900 px-5 py-2 text-lg font-semibold">
-                  Watch Anime
+                  My Github
                 </div>
               </div>
             </div>
